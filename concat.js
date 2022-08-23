@@ -1,11 +1,11 @@
 // TO DO:
 // Complete the concatenation function
 // Takes in two strings
-// returns str1 concatenated with str2
 function concat(str1, str2){
     
 
     return str1 + str2;
+    // returns str1 concatenated with str2
 }
 
 
